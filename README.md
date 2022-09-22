@@ -1,8 +1,8 @@
 # COVID19_Outcome_Prediction
-## project will help to identify whether a person is going to recover from coronavirus symptoms or not based on some pre-defined standard symptoms. These symptoms are
-based on guidelines given by the World Health Organization (WHO).
-. This dataset has daily level information on the number of affected cases, deaths and recovery from 2019 novel coronavirus. Please note that this is a time series data and so the number of cases on any given day is the cumulative number.
-. The data is available from 22 Jan, 2020. Data is in “data.csv”.
+. project will help to identify whether a person is going to recover from coronavirus symptoms or not based on some pre-defined standard symptoms, These symptoms are
+based on guidelines given by the World Health Organization (WHO)
+. This dataset has daily level information on the number of affected cases, deaths and recovery from 2019 novel coronavirus, Please note that this is a time series data and so the number of cases on any given day is the cumulative number
+. The data is available from 22 Jan, 2020. Data is in “data.csv”
 . The dataset contains 14 major variables that will be having an impact on whether someone has recovered or not, the description of each variable are as follows:
 1. Country: where the person resides
 2. Location: which part in the Country
