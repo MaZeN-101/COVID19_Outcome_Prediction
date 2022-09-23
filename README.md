@@ -14,8 +14,8 @@ based on guidelines given by the World Health Organization (WHO)
 13. Time_before_symptoms_appear:
 14. Result: death (1) or recovered (0)
 
-. design different classifiers to the predict the outcome (death/recovered) when a new person is admitted to the hospital. The data is already cleaned and preprocessed.
-You will have to divide the data into three partitions: training, validation, and testing. You need to design the following classifiers:
+. design different classifiers to predict the outcome (death/recovered) when a new person is admitted to the hospital. The data is already cleaned and preprocessed.
+  data is divided into three partitions: training, validation, and testing. design the following classifiers:
 1. K-Nearest Neighbors (KNN)
 2. Logistic Regression 
 3. Naïve Bayes 
